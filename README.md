@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h1 align="center">Hi, I'm Aditi</h1>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I am a passionate software developer with a strong focus on building innovative and impactful applications. Currently, I am working on a **Real-Time Application**, which is a clone of **eraser.io**, and constantly looking for new challenges and opportunities to grow.
+I am a passionate software developer with a strong focus on building innovative and impactful applications.
 
-- 🔭 I’m currently developing **a Real-Time Collaborative Application (Clone of eraser.io)**
-- 🌱 I am always learning and exploring technologies like **Web Development**, **Cloud Computing**, and **Machine Learning**
-- 📫 You can reach me at **adyyy0019@gmail.com**
+-  I’m currently developing **a Real-Time Collaborative Application**
+-  I am always learning and exploring technologies like **Web Development**, **Cloud Computing** and **Machine Learning**
+-  You can reach me at **adyyy0019@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/aditiii19)
 - [GitHub](https://github.com/aditiiiii1)
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Languages:
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -35,18 +35,15 @@ I am a passionate software developer with a strong focus on building innovative 
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### Backend & Database:
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools & Other:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -54,7 +51,7 @@ I am a passionate software developer with a strong focus on building innovative 
 
 I’m always open to discussing new projects, innovative ideas, and collaborative opportunities. Feel free to reach out!
 
-- 📫 **adyyy0019@gmail.com**
+-  **adyyy0019@gmail.com**
 
 ---
 
