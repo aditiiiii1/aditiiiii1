@@ -15,8 +15,8 @@ I am a driven full-stack developer with expertise in modern web technologies and
 ## Technical Skills
 
 ### Frontend Development
-- **Frameworks & Libraries**: React, Bootstrap, Responsive Design
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries**: React, Bootstrap
+- **Languages**: HTML, CSS, JavaScript
 
 ### Backend Development
 - **Server Technologies**: Node.js, Express.js
@@ -24,13 +24,13 @@ I am a driven full-stack developer with expertise in modern web technologies and
 - **Authentication**: JWT, Session Management
 
 ### Database & Storage
-- **NoSQL Databases**: MongoDB
+- **Databases**: MongoDB, SQL
 - **Data Management**: CRUD Operations, Data Validation
 
 ### Development Tools & Practices
-- **Version Control**: Git, GitHub, Branch Management
+- **Version Control**: Git, GitHub
 - **Operating Systems**: Linux
-- **Methodologies**: Agile Development, Responsive Design Principles
+- **Methodologies**: Agile Development, OOP
 
 
 ---
