@@ -15,13 +15,12 @@ I am a driven full-stack developer with expertise in modern web technologies and
 ## Technical Skills
 
 ### Frontend Development
-- **Frameworks & Libraries**: React, Bootstrap
 - **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React, Bootstrap
 
 ### Backend Development
 - **Server Technologies**: Node.js, Express.js
 - **API Development**: RESTful APIs, HTTP protocols
-- **Authentication**: JWT, Session Management
 
 ### Database & Storage
 - **Databases**: MongoDB, SQL
@@ -49,9 +48,8 @@ I am a driven full-stack developer with expertise in modern web technologies and
 I'm particularly interested in opportunities involving:
 
 - Real-time web applications and dashboards
-- Financial technology and trading platforms
-- Startup environments 
-- Performance optimization 
+- Performance optimization
+- Growth opportunities
 
 Let's connect to discuss how we can build something impactful together.
 
