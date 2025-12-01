@@ -39,7 +39,7 @@ I am a driven full-stack developer with expertise in modern web technologies and
 - **LinkedIn**: [linkedin.com/in/aditiii19](https://linkedin.com/in/aditiii19)
 - **GitHub**: [github.com/aditiiiii1](https://github.com/aditiiiii1)
 - **Portfolio**: [https://aditiii19.vercel.app]
-- **Email**: adyyy0019@gmail.com
+- **Email**: aditiii.a19@gmail.com
 
 ---
 
@@ -47,8 +47,6 @@ I am a driven full-stack developer with expertise in modern web technologies and
 
 I'm particularly interested in opportunities involving:
 
-- Real-time web applications and dashboards
-- Performance optimization
 - Growth opportunities
 
 Let's connect to discuss how we can build something impactful together.
