@@ -8,8 +8,8 @@ I am a driven full-stack developer with expertise in modern web technologies and
 
 - Currently enhancing my skills in **advanced web development**
 - Continuously expanding my knowledge in **Cloud Computing**, **System Design**, and **Performance Optimization**
-- Open to collaborating on innovative fintech and web development projects
-
+- Enthusiastic about contributing to projects that offer mutual learning and professional growth opportunities.
+  
 ---
 
 ## Technical Skills
@@ -38,7 +38,7 @@ I am a driven full-stack developer with expertise in modern web technologies and
 
 - **LinkedIn**: [linkedin.com/in/aditiii19](https://linkedin.com/in/aditiii19)
 - **GitHub**: [github.com/aditiiiii1](https://github.com/aditiiiii1)
-- **Portfolio**: [https://aditiii19.vercel.app]
+- **Portfolio**: [aditiii19.vercel.app](https://aditiii19.vercel.app)
 - **Email**: aditiii.a19@gmail.com
 
 ---
@@ -46,10 +46,8 @@ I am a driven full-stack developer with expertise in modern web technologies and
 ## Collaboration Interests
 
 I'm particularly interested in opportunities involving:
-
-- Growth opportunities
-
-Let's connect to discuss how we can build something impactful together.
+- High impact projects
+- Growth 
 
 ---
 
