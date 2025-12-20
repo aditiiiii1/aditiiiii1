@@ -29,7 +29,7 @@ I am a driven full-stack developer with expertise in modern web technologies and
 ### Development Tools & Practices
 - **Version Control**: Git, GitHub
 - **Operating Systems**: Linux
-- **Methodologies**: Agile Development, OOP
+- **Methodologies**: Agile Development, SDLC, OOP
 
 
 ---
