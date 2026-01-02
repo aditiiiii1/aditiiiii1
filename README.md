@@ -6,8 +6,7 @@
 
 I am a driven full-stack developer with expertise in modern web technologies and a strong foundation in software engineering principles. I specialize in building scalable, user-centric applications that solve real-world problems.
 
-- Currently enhancing my skills in **advanced web development**
-- Continuously expanding my knowledge in **Cloud Computing**, **System Design**, and **Performance Optimization**
+- Currently enhancing my skills in the field of software development.
 - Enthusiastic about contributing to projects that offer mutual learning and professional growth opportunities.
   
 ---
