@@ -1,53 +1,59 @@
-<h1 align="center">Hi, I'm Aditi!</h1>
-<h3 align="center">An Aspiring  Software Engineer from India</h3>
+<h1 align="center">Hi, I'm Aditi 👋</h1>
+<h3 align="center">Computer Science & Business Systems student | Solutions-focused Engineer</h3>
 
 ---
+
 ## About Me
 
-I am a driven full-stack developer with expertise in modern web technologies and a strong foundation in software engineering principles. I specialize in building scalable, user-centric applications that solve real-world problems.
+I’m a final-year Computer Science and Business Systems student with a strong interest in building
+data-driven and customer-oriented technical solutions. 
 
-- Currently enhancing my skills in the field of software development.
-- Enthusiastic about contributing to projects that offer mutual learning and professional growth opportunities.
-  
+I enjoy working at the intersection of **technology, data, and business**, especially on problems
+that require understanding user needs, designing clear solutions, and communicating insights
+effectively.
+
+- Background in software engineering, data analysis, and web technologies  
+- Hands-on experience with dashboards, workflow automation, and full-stack development  
+- Interested in customer-facing and solutions engineering roles  
+
 ---
 
 ## Technical Skills
 
-### Frontend Development
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Bootstrap
+### Programming & Data
+- **Languages**: Python, Java, JavaScript, SQL
+- **Data Concepts**: Data modeling, analytics dashboards, data-driven problem solving
 
-### Backend Development
-- **Server Technologies**: Node.js, Express.js
-- **API Development**: RESTful APIs, HTTP protocols
+### Web & APIs
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js, Express.js
+- **APIs**: RESTful APIs, HTTP protocols
 
-### Database & Storage
-- **Databases**: MongoDB, SQL
-- **Data Management**: CRUD Operations, Data Validation
+### Platforms & Tools
+- **Databases**: MongoDB, MySQL
+- **Platforms**: ServiceNow
+- **Tools**: Git, GitHub, Linux
+- **Practices**: Object-Oriented Programming, Agile, SDLC
 
-### Development Tools & Practices
-- **Version Control**: Git, GitHub
-- **Operating Systems**: Linux
-- **Methodologies**: Agile Development, SDLC, OOP
+---
 
+## What I Like Working On
+
+- Turning **business or customer requirements** into clear technical solutions  
+- Building **analytics dashboards** and data-backed insights  
+- Designing **scalable and reusable systems**  
+- Collaborating with others to solve real-world problems  
 
 ---
 
 ## Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/aditiii19](https://linkedin.com/in/aditiii19)
-- **GitHub**: [github.com/aditiiiii1](https://github.com/aditiiiii1)
-- **Portfolio**: [aditiii19.vercel.app](https://aditiii19.vercel.app)
-- **Email**: aditiii.a19@gmail.com
+- **LinkedIn**: https://linkedin.com/in/aditiii19  
+- **GitHub**: https://github.com/aditiiiii1  
+- **Portfolio**: https://aditiii19.vercel.app  
+- **Email**: aditiii.a19@gmail.com  
 
 ---
 
-## Collaboration Interests
-
-I'm particularly interested in opportunities involving:
-- High impact projects
-- Growth 
-
----
-
-*"Building solutions that make complex technology accessible to everyone."*
+> *Interested in learning, building, and contributing to solutions that make complex technology
+more accessible and useful for users.*
