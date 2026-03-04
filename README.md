@@ -50,7 +50,7 @@ effectively.
 
 - **LinkedIn**: https://linkedin.com/in/aditiii19  
 - **GitHub**: https://github.com/aditiiiii1  
-- **Portfolio**: https://aditiii19.vercel.app  
+- **Portfolio**: https://aditiiiii1.vercel.app/
 - **Email**: aditiii.a19@gmail.com  
 
 ---
